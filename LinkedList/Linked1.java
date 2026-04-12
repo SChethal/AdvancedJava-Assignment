@@ -3,18 +3,20 @@
 package basic;
 import java.util.*;
 public class Linked1 {
-	public static void main(String[] args) {
-		List<String>	ls = new LinkedList<>();
-		ls.add("Orange");
-		ls.add("geen");
-		ls.add("pink");
-		ls.add("red");
-		ls.add("Blue");
-		Iterator iterator = ls.listIterator(2);
-		while (iterator.hasNext()) {
-		System.out.println(iterator.next());
-		}
-	}
-
+    public static void main(String[] args) {
+        LinkedList<String> listobj = new LinkedList<>();
+        // Adding elements
+        listobj.add("Orange");
+        listobj.add("Green");
+        listobj.add("Pink");
+        listobj.add("Red");
+        listobj.add("Blue");
+        // Start iterator from 2nd position (index 1)
+        Iterator<String> iteratorobj = listobj.listIterator(1);
+        // Traverse from that position
+        System.out.println("Elements from 2nd position:");
+        while (iteratorobj.hasNext()) {
+            System.out.println(iteratorobj.next());
+        }
+    }
 }
-
