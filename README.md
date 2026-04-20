@@ -58,6 +58,7 @@ output8b : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/Lab8b/o
 
 output9a : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/lab9a/output9a.jpeg
 output9b : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/lab9b/src/main/webapp/output9b.jpeg
+output9c : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/lab9c/src/main/webapp/output9c.jpeg
 
 *************************************** OUTPUT OF LAB 10  **************************************************************
 
