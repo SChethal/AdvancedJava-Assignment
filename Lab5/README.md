@@ -4,4 +4,4 @@ outputJListExample1 : https://github.com/SChethal/AdvancedJava-Assignment/blob/m
 
 outputTappedPaneExample : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/Lab5/outputTappedPannelExample1.png
 
-outputTappedPaneExample1 :
+outputTappedPaneExample1 : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/Lab5/outputTappedPannelExample2.png
