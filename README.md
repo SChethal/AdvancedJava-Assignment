@@ -17,8 +17,34 @@ outputLinked5 : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/Li
 
 *************************************** OUTPUT OF LAB 02  **************************************************************
 
+outputPerformanceTest : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/Lab2/outputPerformanceTest.png
+outputStringHandling : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/Lab2/outputStringHandling.png
 
+*************************************** OUTPUT OF LAB 03  **************************************************************
 
+*************************************** OUTPUT OF LAB 04  **************************************************************
 
+*************************************** OUTPUT OF LAB 05  **************************************************************
+
+*************************************** OUTPUT OF LAB 06  **************************************************************
+
+*************************************** OUTPUT OF LAB 07  **************************************************************
 
 output7a : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/lab7a/src/main/webapp/output7a.jpeg
+
+*************************************** OUTPUT OF LAB 08  **************************************************************
+
+
+*************************************** OUTPUT OF LAB 09  **************************************************************
+
+
+*************************************** OUTPUT OF LAB 10  **************************************************************
+
+
+
+
+
+
+
+
+
