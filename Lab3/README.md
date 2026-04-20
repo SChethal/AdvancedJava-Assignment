@@ -3,4 +3,4 @@ StringHandlingDemo : https://github.com/SChethal/AdvancedJava-Assignment/blob/ma
 
 StringHandlingFunction1 : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/Lab3/StringHandlingFunction1.png
 
-StringHandlingFunction2 :
+StringHandlingFunction2 : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/Lab3/StringHandlingFunction2.png
