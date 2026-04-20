@@ -51,6 +51,8 @@ output7b : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/lab7b/s
 
 *************************************** OUTPUT OF LAB 08  **************************************************************
 
+output8a : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/lab8a/output8a.jpeg
+
 
 *************************************** OUTPUT OF LAB 09  **************************************************************
 
