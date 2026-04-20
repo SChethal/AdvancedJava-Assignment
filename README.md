@@ -1,6 +1,6 @@
 # AdvancedJava-Assignment
 
-******************************* OUTPUT OF LAB01  **************************************************************
+*************************************** OUTPUT OF LAB 01  **************************************************************
 
 ListInterfaceDemo output: https://github.com/SChethal/AdvancedJava-Assignment/blob/main/ArrayList/output1.png
 outputArray1 : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/ArrayList/outputArray1.png
@@ -9,8 +9,13 @@ outputArray3 : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/Arr
 outputArray4 : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/ArrayList/outputArray4.png
 outputArray5 : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/ArrayList/outputArray5.png
 
+outputLinked1 : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/LinkedList/outputLinked1.png
+outputLinked2 : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/LinkedList/outputLinked2.png
+outputLinked3 : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/LinkedList/outputLinked3.png
+outputLinked4 : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/LinkedList/outputlinked4.png
+outputLinked5 : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/LinkedList/outputlinked5.png
 
-
+*************************************** OUTPUT OF LAB 02  **************************************************************
 
 
 
