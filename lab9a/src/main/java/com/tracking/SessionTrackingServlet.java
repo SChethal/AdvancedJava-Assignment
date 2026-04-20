@@ -1,5 +1,5 @@
-/*9.a Build a Session Management using Servlet program set with one minute session  to show Session Tracking Information, Session ID,Session Creation Time,Last Access Time,Visit Count
-*/
+// 9.a Build a Session Management using Servlet program set with one minute session  to show Session Tracking Information, Session ID,Session Creation Time,Last Access Time,Visit Count
+
 package com.tracking;
 
 import java.io.*;
