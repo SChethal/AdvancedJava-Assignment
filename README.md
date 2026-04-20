@@ -42,6 +42,7 @@ outputTappedPaneExample1 : https://github.com/SChethal/AdvancedJava-Assignment/b
 *************************************** OUTPUT OF LAB 06  **************************************************************
 
 output6a : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/lab6a/output6a.png
+output6b : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/lab6b/output6b.png
 
 *************************************** OUTPUT OF LAB 07  **************************************************************
 
