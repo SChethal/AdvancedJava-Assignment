@@ -2,7 +2,7 @@ ListInterfaceDemo output  : https://github.com/SChethal/AdvancedJava-Assignment/
 
 outputArray1 : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/ArrayList/outputArray1.png
 
-outputArray2 :
+outputArray2 : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/ArrayList/outputArray2.png
 
 outputArray3 :
 
