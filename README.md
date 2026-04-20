@@ -47,6 +47,7 @@ output6b : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/lab6b/o
 *************************************** OUTPUT OF LAB 07  **************************************************************
 
 output7a : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/lab7a/src/main/webapp/output7a.jpeg
+output7b : https://github.com/SChethal/AdvancedJava-Assignment/blob/main/lab7b/src/main/webapp/output7b.jpeg
 
 *************************************** OUTPUT OF LAB 08  **************************************************************
 
